@@ -13,3 +13,5 @@ else
   export PS1='[\u@\h : \w]\$ ' && \
   /bin/bash
 fi
+
+tail -f /dev/null
